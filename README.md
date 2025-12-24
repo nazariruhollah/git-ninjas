@@ -269,4 +269,3 @@ If you've finished the course, please add your name and one of your social pages
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
 | Mohammad Rezaei | [Linkedin](https://www.linkedin.com/in/mohammadrezaei5/) |
 | Ruhollah Nazari | [GitHub](https://github.com/nazariruhollah) |
-| Ruhollah Nazari 2 | [GitHub](https://github.com/nazariruhollah) |
